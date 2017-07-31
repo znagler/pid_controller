@@ -65,7 +65,7 @@ To achieve a ride that was 1- not swerving back and forth like a sine wave, and 
 |:-------------:|:-------------:| 
 | Kp   | -0.25     | 
 | Ki       |  0      |
-| Kd    | 2   |
+| Kd    | -2   |
 
 To improve the driving of the simulator car, I also adjusted the car's throttle depending on the speed as follows:
 
